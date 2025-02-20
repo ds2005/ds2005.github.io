@@ -16,6 +16,18 @@ br
 	mso-font-charset:0;
 	mso-style-name:"20% - Accent1";
 	mso-style-id:30;}
+.style18
+	{background:#9CAAC2;
+	mso-pattern:black none;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent3";
+	mso-style-id:40;}
 .style16
 	{color:#69A020;
 	font-size:12.0pt;
@@ -557,4 +569,12 @@ td
 	{mso-style-parent:style0;
 	border:.5pt solid windowtext;
 	background:gray;
+	mso-pattern:black none;}
+.xl125
+	{mso-style-parent:style18;
+	color:white;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#2F394D;
 	mso-pattern:black none;}
