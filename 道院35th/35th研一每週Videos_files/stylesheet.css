@@ -1,9 +1,13 @@
 tr
-	{mso-height-source:auto;}
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
 col
-	{mso-width-source:auto;}
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
 br
 	{mso-data-placement:same-cell;}
+ruby
+	{ruby-align:left;}
 .style17
 	{background:#EFE7F3;
 	mso-pattern:black none;
@@ -12,9 +16,9 @@ br
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Calibri, sans-serif;
+	font-family:\65B0\7D30\660E\9AD4, serif;
 	mso-font-charset:0;
-	mso-style-name:"20% - Accent1";
+	mso-style-name:"20% - \8F14\82721";
 	mso-style-id:30;}
 .style18
 	{background:#9CAAC2;
@@ -24,39 +28,10 @@ br
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Calibri, sans-serif;
+	font-family:\65B0\7D30\660E\9AD4, serif;
 	mso-font-charset:0;
-	mso-style-name:"60% - Accent3";
+	mso-style-name:"60% - \8F14\82723";
 	mso-style-id:40;}
-.style16
-	{color:#69A020;
-	font-size:12.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-style-name:Hyperlink;
-	mso-style-id:8;}
-a:link
-	{color:#69A020;
-	font-size:12.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;}
-a:visited
-	{color:#8C8C8C;
-	font-size:12.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;}
 .style0
 	{mso-number-format:General;
 	text-align:general;
@@ -70,12 +45,41 @@ a:visited
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Calibri, sans-serif;
+	font-family:\65B0\7D30\660E\9AD4, serif;
 	mso-font-charset:0;
 	border:none;
 	mso-protection:locked visible;
-	mso-style-name:Normal;
+	mso-style-name:\4E00\822C;
 	mso-style-id:0;}
+.style16
+	{color:#69A020;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:\65B0\7D30\660E\9AD4, serif;
+	mso-font-charset:0;
+	mso-style-name:\8D85\9023\7D50;
+	mso-style-id:8;}
+a:link
+	{color:#69A020;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:\65B0\7D30\660E\9AD4, serif;
+	mso-font-charset:0;}
+a:visited
+	{color:#8C8C8C;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:\65B0\7D30\660E\9AD4, serif;
+	mso-font-charset:0;}
 td
 	{mso-style-parent:style0;
 	padding-top:1px;
@@ -87,7 +91,7 @@ td
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Calibri, sans-serif;
+	font-family:\65B0\7D30\660E\9AD4, serif;
 	mso-font-charset:0;
 	mso-number-format:General;
 	text-align:general;
